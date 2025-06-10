@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c90b12f-5e44-4340-a190-76d83676ba9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PyCharmprojects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test SF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test departments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test full crew v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test full crew v3 not working.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test full crew v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test full crew v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test full crew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test projects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API test titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_to_files_Final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ultimate_full_export_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cell test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compare_issues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compare_selected_sflists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compare_selected_sflists_works.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_gradio_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow_from_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow_s02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow_save01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dts_test_workflow_wadd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full_export_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full_export_api_SFlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combine_and_preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combined_0607.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combined_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combined_list_worked0605.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_combined_majdnem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_crew_explorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_crew_explorer_0607.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_crew_explorer_worked0606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_match_0606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_match_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sf_state_simple_SFlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sflist_export_and_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sflist_ultimate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sflist_ultimate_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app_good.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app_sv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app_sv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamlit_app_verygood.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/title_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ultimate_compare_two_sflists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ultimate_daily_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ultimate_run_SFAPI_and_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ultimate_two_sflist_state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_api_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xOWR5HVJMDtGWySBXmSfZ5SEQy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in base.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test full crew v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test full crew v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test full crew v4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test full crew v5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test full crew.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API test projects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DB_to_files_Final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ultimate_full_export_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cell test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare_issues.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare_selected_sflists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dts_gradio_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dts_test_workflow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dts_test_workflow_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.export_job_titles_with_projects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_export_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_export_api_SFlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_combined.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_combined_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_match.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_match_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_preprocess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.master_titles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sf_state_simple_SFlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sflist_export_and_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sflist_ultimate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sflist_ultimate_save.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.title_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ultimate_compare_two_sflists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ultimate_daily_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ultimate_run_SFAPI_and_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ultimate_two_sflist_state.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kalmanantal/Dropbox (Personal)/WORK/Pioneer Pictures/Adatbázis/PyCharmprojects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c90b12f-5e44-4340-a190-76d83676ba9a" name="Changes" comment="" />
+      <created>1747809588609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747809588609</updated>
+      <workItem from="1747847974938" duration="1977000" />
+      <workItem from="1747912268193" duration="1335000" />
+      <workItem from="1748002598377" duration="7053000" />
+      <workItem from="1748441159552" duration="7337000" />
+      <workItem from="1748854036097" duration="1914000" />
+      <workItem from="1749200405842" duration="8746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dts_test_workflow_from_file.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyCharmprojects$API_test_projects.coverage" NAME="API test projects Coverage Results" MODIFIED="1748002704479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$ultimate_daily_check.coverage" NAME="ultimate_daily_check Coverage Results" MODIFIED="1748854296637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$DB_to_files_Final.coverage" NAME="DB_to_files_Final Coverage Results" MODIFIED="1748855056150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$API_test_full_crew_v3.coverage" NAME="API test full crew v3 Coverage Results" MODIFIED="1748006417787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$API_test_full_crew_v4.coverage" NAME="API test full crew v4 Coverage Results" MODIFIED="1748006956091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$dts_gradio_test.coverage" NAME="dts_gradio_test Coverage Results" MODIFIED="1748441378185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$title_order.coverage" NAME="title_order Coverage Results" MODIFIED="1748510517846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$test_env.coverage" NAME="test_env Coverage Results" MODIFIED="1747848012502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$master_combined.coverage" NAME="master_combined Coverage Results" MODIFIED="1749219493898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$API_test_full_crew_v5.coverage" NAME="API test full crew v5 Coverage Results" MODIFIED="1748008961639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmprojects$cell_test.coverage" NAME="cell test Coverage Results" MODIFIED="1748523844051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
