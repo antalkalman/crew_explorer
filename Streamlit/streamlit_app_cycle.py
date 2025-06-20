@@ -53,6 +53,11 @@ st.sidebar.header("Filters")
 
 unit_options = sorted(df["Unit"].dropna().unique())
 dept_options = sorted(df["Department"].dropna().unique())
+
+# Track department index in session_state
+if "dept_index" not in st.session_state:
+    st.session_state.dept_index = 0
+
 date_options = sorted(df["Date"].dt.date.unique())
 id_options = sorted(df["ID"].dropna().unique())
 status_options = ["Prepped", "Approved", "Signed", "Correct", ""]
@@ -80,9 +85,20 @@ unit_filter = st.sidebar.multiselect("Select Unit(s)", ["All"] + unit_options, d
 if "All" in unit_filter or not unit_filter:
     unit_filter = unit_options
 
+# Show only if 1 department selected
+if "Next Department" not in st.session_state:
+    st.session_state["Next Department"] = False
+
 department_filter = st.sidebar.multiselect("Select Department(s)", ["All"] + dept_options, default=["All"])
-if "All" in department_filter or not department_filter:
-    department_filter = dept_options
+
+# Handle "Next Department" button
+if len(department_filter) == 1:
+    if st.sidebar.button("➡️ Next Department"):
+        current = dept_options.index(department_filter[0])
+        next_index = (current + 1) % len(dept_options)
+        department_filter = [dept_options[next_index]]
+        st.session_state.dept_index = next_index
+
 
 date_filter = st.sidebar.multiselect("Select Date(s)", ["All"] + date_options, default=["All"])
 if "All" in date_filter or not date_filter:
@@ -123,7 +139,22 @@ st.markdown(
 
 # --- Set Status for All Visible ---
 st.markdown("### Set State for All Visible Rows")
-new_status = st.selectbox("Set State to:", status_options)
+status_labels = {
+    "Prepped": "🟢 Prepped",
+    "Approved": "🔵 Approved",
+    "Signed": "🟣 Signed",
+    "Correct": "🟠 Correct",
+    "": "🔴 Empty"
+}
+status_reverse = {v: k for k, v in status_labels.items()}  # for reverse lookup
+
+new_status_label = st.radio(
+    "👁️ Choose State to Apply:",
+    options=list(status_labels.values()),
+    horizontal=True
+)
+new_status = status_reverse[new_status_label]
+
 if st.button("Apply State to All Visible"):
     ids_to_update = filtered_df["ID"].dropna().tolist()
     df.loc[df["ID"].isin(ids_to_update), "Status"] = new_status

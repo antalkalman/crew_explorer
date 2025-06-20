@@ -76,6 +76,8 @@ with pd.ExcelWriter(output_excel, engine="openpyxl") as writer:
                 name=None, showFirstColumn=False, showLastColumn=False, showRowStripes=False, showColumnStripes=False
             )
             ws.add_table(table)
+            #tet
+
 
             # Auto-adjust other columns, skipping "Change Status"
             for col in ws.columns:
